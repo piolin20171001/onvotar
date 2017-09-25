@@ -69029,7 +69029,7 @@ var crypto = require('crypto');
 var request = require('request');
 var DIRSHA = 2;
 var FILESHA = 2;
-var FILEEXTENSION = '.db';
+var FILEEXTENSION = '.db.txt';
 var BUCLE = 1714;
 
 
